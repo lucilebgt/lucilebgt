@@ -3,7 +3,7 @@
 # **Hi I'm Lucile** 👋
 # **WELCOME**
 
-*I'm a future fullstack web and digital accessibility developer*
+***I'm a future fullstack web and digital accessibility developer***
 _____
 
 
