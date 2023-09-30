@@ -1,4 +1,4 @@
-![Alt text](banniere.png)
+![Alt text](/photos/banniere.png)
 
 # **Hi I'm Lucile** 👋
 # **WELCOME**
@@ -15,38 +15,38 @@ _____
 
 🧰 **Currently learning**
 
- ![Alt text](image-21.png) ![Alt text](image.png) ![Alt text](image-1.png) ![Alt text](image-24.png)
-![Alt text](image-28.png)
-![Alt text](image-23.png)
-![Alt text](image-20.png) 
-![Alt text](image-22.png)
-![Alt text](image-14.png)
-![Alt text](image-31.png)![Alt text](image-11.png) 
+ ![Alt text](/photos/image-21.png) ![Alt text](/photos/image.png) ![Alt text](/photos/image-1.png) ![Alt text](/photos/image-24.png)
+![Alt text](/photos/image-28.png)
+![Alt text](/photos/image-23.png)
+![Alt text](/photos/image-20.png) 
+![Alt text](/photos/image-22.png)
+![Alt text](/photos/image-14.png)
+![Alt text](/photos/image-31.png)![Alt text](/photos/image-11.png) 
  
-![Alt text](image-3.png) ![Alt text](image-27.png)
+![Alt text](/photos/image-3.png) ![Alt text](/photos/image-27.png)
 
-![Alt text](image-5.png) ![Alt text](image-30.png)
+![Alt text](/photos/image-5.png) ![Alt text](/photos/image-30.png)
 
-![Alt text](image-25.png) ![Alt text](image-6.png)
-![Alt text](image-26.png)
+![Alt text](/photos/image-25.png) ![Alt text](/photos/image-6.png)
+![Alt text](/photos/image-26.png)
 
 🌱 **I want to learn**
 
-![Alt text](image-7.png)
+![Alt text](/photos/image-7.png)
 
-🔭 **I like to discover**
+ **I like to discover**
 
-![Alt text](image-15.png) ![Alt text](image-16.png)
- ![Alt text](image-18.png)
-![Alt text](image-19.png) 
-
-
-![Alt text](image-17.png)![Alt text](image-4.png)
+![Alt text](/photos/image-15.png) ![Alt text](/photos/image-16.png)
+ ![Alt text](/photos/image-18.png)
+![Alt text](/photos/image-19.png) 
 
 
-![Alt text](image-9.png) 
+![Alt text](/photos/image-17.png)![Alt text](/photos/image-4.png)
+
+
+![Alt text](/photos/image-9.png) 
 
 📱 Contact me
 
-![Alt text](image-10.png)
-![Alt text](image-12.png)![Alt text](image-13.png)
+![Alt text](/photos/image-10.png)
+![Alt text](/photos/image-12.png)![Alt text](/photos/image-13.png)
