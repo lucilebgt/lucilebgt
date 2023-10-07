@@ -44,8 +44,8 @@ _____
 ![Alt text](/photos/image-17.png)![Alt text](/photos/image-4.png)
 
 
-![Alt text](/photos/image-9.png) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=lucilebgt&show_icons=true&theme=cobalt)
 📱 Contact me
 
 ![Alt text](/photos/image-10.png)
